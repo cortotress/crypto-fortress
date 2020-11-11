@@ -1,0 +1,24 @@
+{
+  "name": "cryptofortress",
+  "version": "0.0.1",
+  "description": "Breew yourr own fortress of unique ethereum powered dwarves!",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cortotress/crypto-fortress.git"
+  },
+  "author": "anorak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cortotress/crypto-fortress/issues"
+  },
+  "homepage": "https://github.com/cortotress/crypto-fortress#readme",
+  "dependencies": {
+    "bulma": "^0.9.1",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
